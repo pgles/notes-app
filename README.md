@@ -1,3 +1,6 @@
+Screenshot of working application in mobile view: https://drive.google.com/file/d/1Ts22-GENdmiU-SWcLLDzm71kE7zaE5sm/view?usp=sharing
+Screenshot of working application in desktop view: https://drive.google.com/file/d/109nHnEJS2IAdgieZrowtA4LDqjGYi_jz/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
